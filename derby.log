@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu May 26 16:24:12 IST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0181-0000-a7ee-0000015a15e8 
+on database directory memory:/Users/adithya/Downloads/WhatsAppScheduler/547d4298-ad0c-441c-8629-a98914dafa4f with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2aae9190 
+Loaded from file:/Users/adithya/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Eclipse Adoptium
+java.runtime.version=17.0.2+8
+user.dir=/Users/adithya/Downloads/WhatsAppScheduler
+os.name=Mac OS X
+os.arch=x86_64
+os.version=12.4
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
